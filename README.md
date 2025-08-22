@@ -1,6 +1,6 @@
 # Solirius QE UI Technical Task
 
-Your task is to create a functional automated UI test suite using JavaScript, TypeScript, or a language of your choice. We would like you to use tools like Playwright, Cypress, or similar alternatives; kindly avoid using Selenium with Java. However should you opt to use Selenium with Java, we will inquire as to your reasoning's into why you did not opt for an alternative framework or language.
+Your task is to create a functional automated UI test suite using JavaScript, TypeScript, or a language of your choice. We would prefer you to use tools like Playwright or Cypress. However should you opt to use a different tool, such as Selenium with Java, we will inquire as to your reasoning's into why you did not opt for an alternative framework or language.
 
 There are no trick questions; we want to see your solution work, analyse your code structure, and understand your thought process.
 
@@ -42,7 +42,7 @@ To launch the page locally, follow these simple steps:
 
 ## 🕗 Time Allocation
 
-Although there's no strict time limit for completing this task before the specified deadline given, we advise against spending more than a few hours on it. We don't expect an extensive number of tests, but a well-rounded selection is appreciated.
+There's no strict time limit for completing this task before the specified deadline given, we don't expect an extensive number of tests, but a well-rounded selection is appreciated.
 
 If you have the time and inclination, feel free to attempt Task 2 (bonus task), also provide any additional thoughts on your framework solution, with any further considerations you would take in to account if you had more time.
 
