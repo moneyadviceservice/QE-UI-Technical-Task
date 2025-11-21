@@ -1,4 +1,4 @@
-# Solirius QE UI Technical Task
+# MaPS QE UI Technical Task
 
 Your task is to create a functional automated UI test suite using JavaScript, TypeScript, or a language of your choice. We would prefer you to use tools like Playwright or Cypress. However should you opt to use a different tool, such as Selenium with Java, we will inquire as to your reasoning's into why you did not opt for an alternative framework or language.
 
@@ -17,7 +17,7 @@ The URL for 'Calculate your holiday entitlement': https://www.gov.uk/calculate-y
 
 ## 🎢 The Task - Part 2 (bonus task)
 
-At Solirius, we prioritise Accessibility. While we understand that not everyone may meet our understanding of the subject, we are eager to gauge your knowledge and awareness in this area.
+At MaPS, we prioritise Accessibility. While we understand that not everyone may meet our understanding of the subject, we are eager to gauge your knowledge and awareness in this area.
 
 Task two is to launch the basic web page we have created 'index.html' and provide us with a list of Accessibility issues/bugs you can find.
 
